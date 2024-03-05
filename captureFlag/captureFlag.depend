@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709116454 source:c:\users\90538\onedrive\desktop\2.dönem\captureflag\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
